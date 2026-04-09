@@ -33,4 +33,4 @@ Show Image
 Show Image
 
 
-"Build things that matter. Solve problems that are real.
+Build things that matter. Solve problems that are real.
