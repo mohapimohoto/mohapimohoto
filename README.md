@@ -1,6 +1,6 @@
 # Hi, I'm Mohapi Mohoto 👋
 
-**Junior Software Developer | Full Stack | Johannesburg, SA 🇿🇦**
+**Junior Software Developer | Full Stack | Johannesburg, 🇿🇦**
 
 I'm a passionate developer with a National Diploma in Information Technology and real-world experience in both **software development** and **enterprise IT infrastructure**. I love building things that solve real problems in real communities.
 
